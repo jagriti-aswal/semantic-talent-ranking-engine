@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0062247,1,92.75,AI Engineer with 7.3 yrs; response rate 0.78; interview completion 0.84
+CAND_0058688,2,92.59,AI Engineer with 6.7 yrs; response rate 0.74; interview completion 0.96
+CAND_0068932,3,92.56,ML Engineer with 5.2 yrs; response rate 0.82; interview completion 0.64
+CAND_0081846,4,92.11,Lead AI Engineer with 6.7 yrs; response rate 0.73; interview completion 0.94
+CAND_0017093,5,91.47,ML Engineer with 5.9 yrs; response rate 0.58; interview completion 0.66
+CAND_0043860,6,91.06,Junior ML Engineer with 6.1 yrs; response rate 0.81; interview completion 0.94
+CAND_0059795,7,91.06,Senior Software Engineer (ML) with 5.6 yrs; response rate 0.75; interview completion 0.89
+CAND_0098846,8,90.87,AI Engineer with 7.6 yrs; response rate 0.62; interview completion 0.80
+CAND_0006567,9,90.59,Senior AI Engineer with 7.9 yrs; response rate 0.79; interview completion 0.93
+CAND_0018499,10,90.22,Senior Machine Learning Engineer with 7.2 yrs; response rate 0.61; interview completion 0.80
+CAND_0064888,11,89.94,ML Engineer with 5.8 yrs; response rate 0.92; interview completion 0.53
+CAND_0002025,12,89.91,Senior AI Engineer with 5.9 yrs; response rate 0.80; interview completion 0.81
+CAND_0006418,13,89.58,Machine Learning Engineer with 5.7 yrs; response rate 0.92; interview completion 0.89
+CAND_0050454,14,89.2,AI Engineer with 6.8 yrs; response rate 0.77; interview completion 0.72
+CAND_0025882,15,89.16,Senior Software Engineer (ML) with 5.6 yrs; response rate 0.79; interview completion 0.73
+CAND_0077337,16,89.11,Staff Machine Learning Engineer with 7.0 yrs; response rate 0.95; interview completion 0.73
+CAND_0066999,17,89.03,Recommendation Systems Engineer with 5.9 yrs; response rate 0.63; interview completion 0.61
+CAND_0039383,18,88.99,Applied ML Engineer with 7.1 yrs; response rate 0.61; interview completion 0.97
+CAND_0079387,19,88.98,AI Engineer with 6.9 yrs; response rate 0.81; interview completion 0.90
+CAND_0067866,20,88.6,Senior Software Engineer (ML) with 6.4 yrs; response rate 0.79; interview completion 0.70
+CAND_0037566,21,88.55,Machine Learning Engineer with 6.9 yrs; response rate 0.50; interview completion 0.84
+CAND_0015967,22,88.44,Senior Software Engineer (ML) with 5.4 yrs; response rate 0.45; interview completion 0.79
+CAND_0052195,23,88.35,Computer Vision Engineer with 6.3 yrs; response rate 0.69; interview completion 0.61
+CAND_0045141,24,88.19,Data Scientist with 5.3 yrs; response rate 0.44; interview completion 0.90
+CAND_0098454,25,88.19,AI Specialist with 6.6 yrs; response rate 0.87; interview completion 0.97
+CAND_0053591,26,88.06,AI Engineer with 5.3 yrs; response rate 0.81; interview completion 0.97
+CAND_0069905,27,87.99,Applied ML Engineer with 6.6 yrs; response rate 0.78; interview completion 0.93
+CAND_0086022,28,87.92,Senior Applied Scientist with 5.3 yrs; response rate 0.55; interview completion 0.68
+CAND_0052431,29,87.91,ML Engineer with 5.3 yrs; response rate 0.85; interview completion 0.89
+CAND_0068811,30,87.91,Applied ML Engineer with 8.0 yrs; response rate 0.42; interview completion 0.77
+CAND_0017960,31,87.86,Recommendation Systems Engineer with 7.7 yrs; response rate 0.72; interview completion 0.64
+CAND_0074342,32,87.86,Data Scientist with 5.7 yrs; response rate 0.76; interview completion 0.79
+CAND_0024620,33,87.81,AI Engineer with 5.9 yrs; response rate 0.41; interview completion 0.98
+CAND_0037980,34,87.81,Senior Applied Scientist with 9.0 yrs; response rate 0.63; interview completion 0.89
+CAND_0077296,35,87.7,Computer Vision Engineer with 5.8 yrs; response rate 0.50; interview completion 0.98
+CAND_0007567,36,87.65,AI Specialist with 6.1 yrs; response rate 0.80; interview completion 0.81
+CAND_0046525,37,87.55,Senior Machine Learning Engineer with 6.1 yrs; response rate 0.88; interview completion 0.81
+CAND_0052335,38,87.5,Applied ML Engineer with 6.4 yrs; response rate 0.79; interview completion 0.59
+CAND_0097176,39,87.44,ML Engineer with 5.9 yrs; response rate 0.76; interview completion 0.87
+CAND_0018722,40,87.41,Recommendation Systems Engineer with 6.6 yrs; response rate 0.79; interview completion 0.91
+CAND_0041610,41,87.37,Recommendation Systems Engineer with 6.7 yrs; response rate 0.52; interview completion 0.80
+CAND_0043384,42,87.34,Computer Vision Engineer with 5.2 yrs; response rate 0.83; interview completion 0.65
+CAND_0048166,43,87.3,ML Engineer with 5.2 yrs; response rate 0.48; interview completion 0.98
+CAND_0030468,44,87.23,Senior Applied Scientist with 5.4 yrs; response rate 0.78; interview completion 0.82
+CAND_0026716,45,87.2,Computer Vision Engineer with 5.6 yrs; response rate 0.82; interview completion 0.53
+CAND_0071974,46,87.17,Senior AI Engineer with 7.8 yrs; response rate 0.76; interview completion 0.85
+CAND_0046313,47,87.16,Senior Software Engineer (ML) with 5.8 yrs; response rate 0.45; interview completion 0.82
+CAND_0043304,48,87.0,Junior ML Engineer with 6.5 yrs; response rate 0.75; interview completion 0.66
+CAND_0098952,49,86.94,AI Research Engineer with 5.5 yrs; response rate 0.66; interview completion 0.90
+CAND_0052328,50,86.85,Recommendation Systems Engineer with 6.5 yrs; response rate 0.79; interview completion 0.95
+CAND_0053605,51,86.83,Senior Software Engineer (ML) with 6.9 yrs; response rate 0.88; interview completion 0.97
+CAND_0052682,52,86.82,NLP Engineer with 6.6 yrs; response rate 0.88; interview completion 0.88
+CAND_0047542,53,86.76,Senior Software Engineer (ML) with 5.0 yrs; response rate 0.75; interview completion 0.57
+CAND_0082086,54,86.76,Senior Software Engineer (ML) with 6.0 yrs; response rate 0.85; interview completion 0.69
+CAND_0030946,55,86.75,Junior ML Engineer with 6.7 yrs; response rate 0.38; interview completion 0.95
+CAND_0000273,56,86.68,ML Engineer with 5.8 yrs; response rate 0.47; interview completion 0.78
+CAND_0072688,57,86.47,Data Scientist with 6.9 yrs; response rate 0.87; interview completion 0.85
+CAND_0017090,58,86.44,Senior Software Engineer (ML) with 5.5 yrs; response rate 0.71; interview completion 0.87
+CAND_0014234,59,86.4,Junior ML Engineer with 5.4 yrs; response rate 0.49; interview completion 0.64
+CAND_0018549,60,86.34,Recommendation Systems Engineer with 6.8 yrs; response rate 0.73; interview completion 0.67
+CAND_0033179,61,86.34,AI Research Engineer with 6.9 yrs; response rate 0.84; interview completion 0.66
+CAND_0011687,62,86.33,Senior NLP Engineer with 7.8 yrs; response rate 0.89; interview completion 0.77
+CAND_0081852,63,86.31,Senior Data Scientist with 5.9 yrs; response rate 0.44; interview completion 0.77
+CAND_0075574,64,86.25,Machine Learning Engineer with 5.7 yrs; response rate 0.58; interview completion 0.96
+CAND_0005509,65,86.18,Data Scientist with 6.0 yrs; response rate 0.40; interview completion 0.61
+CAND_0012837,66,86.12,Junior ML Engineer with 6.4 yrs; response rate 0.81; interview completion 0.52
+CAND_0077956,67,86.08,Computer Vision Engineer with 6.4 yrs; response rate 0.88; interview completion 1.00
+CAND_0093912,68,86.08,Senior Data Scientist with 5.3 yrs; response rate 0.66; interview completion 0.96
+CAND_0081053,69,86.06,NLP Engineer with 5.4 yrs; response rate 0.83; interview completion 0.79
+CAND_0003791,70,86.03,ML Engineer with 6.6 yrs; response rate 0.66; interview completion 0.98
+CAND_0039983,71,85.75,Computer Vision Engineer with 6.6 yrs; response rate 0.73; interview completion 0.91
+CAND_0091745,72,85.75,Junior ML Engineer with 5.9 yrs; response rate 0.53; interview completion 0.99
+CAND_0018246,73,85.66,ML Engineer with 4.7 yrs; response rate 0.54; interview completion 0.94
+CAND_0069638,74,85.64,Computer Vision Engineer with 6.2 yrs; response rate 0.64; interview completion 0.62
+CAND_0070525,75,85.59,Senior Software Engineer (ML) with 5.4 yrs; response rate 0.93; interview completion 0.89
+CAND_0083852,76,85.52,Data Scientist with 6.0 yrs; response rate 0.85; interview completion 0.74
+CAND_0003599,77,85.5,Computer Vision Engineer with 6.5 yrs; response rate 0.47; interview completion 0.96
+CAND_0009691,78,85.5,Applied ML Engineer with 6.2 yrs; response rate 0.64; interview completion 0.57
+CAND_0073883,79,85.4,AI Specialist with 5.3 yrs; response rate 0.92; interview completion 0.68
+CAND_0060054,80,85.34,AI Engineer with 6.4 yrs; response rate 0.86; interview completion 0.78
+CAND_0001131,81,85.31,ML Engineer with 5.8 yrs; response rate 0.58; interview completion 0.73
+CAND_0091909,82,85.31,Machine Learning Engineer with 6.9 yrs; response rate 0.65; interview completion 0.66
+CAND_0064130,83,85.26,AI Research Engineer with 6.7 yrs; response rate 0.67; interview completion 0.79
+CAND_0020877,84,85.25,Applied ML Engineer with 5.1 yrs; response rate 0.66; interview completion 0.75
+CAND_0033649,85,85.25,Data Scientist with 5.3 yrs; response rate 0.77; interview completion 0.87
+CAND_0029135,86,85.24,AI Specialist with 5.8 yrs; response rate 0.69; interview completion 0.96
+CAND_0067497,87,85.23,Project Manager with 8.1 yrs; response rate 0.76; interview completion 0.57
+CAND_0021706,88,85.21,AI Specialist with 6.2 yrs; response rate 0.66; interview completion 0.99
+CAND_0046064,89,85.2,Senior NLP Engineer with 8.9 yrs; response rate 0.78; interview completion 0.80
+CAND_0054100,90,85.18,Junior ML Engineer with 6.0 yrs; response rate 0.79; interview completion 0.60
+CAND_0022463,91,85.17,Junior ML Engineer with 6.5 yrs; response rate 0.73; interview completion 0.59
+CAND_0065195,92,85.13,Search Engineer with 5.1 yrs; response rate 0.80; interview completion 0.91
+CAND_0032216,93,85.08,ML Engineer with 6.1 yrs; response rate 0.35; interview completion 0.51
+CAND_0003841,94,85.06,ML Engineer with 5.0 yrs; response rate 0.71; interview completion 0.72
+CAND_0048558,95,85.04,Data Scientist with 6.7 yrs; response rate 0.80; interview completion 0.52
+CAND_0058575,96,85.03,AI Engineer with 5.8 yrs; response rate 0.69; interview completion 0.68
+CAND_0099751,97,84.95,Junior ML Engineer with 5.5 yrs; response rate 0.64; interview completion 0.75
+CAND_0024147,98,84.91,ML Engineer with 5.9 yrs; response rate 0.84; interview completion 0.53
+CAND_0064326,99,84.89,Search Engineer with 7.6 yrs; response rate 0.94; interview completion 0.90
+CAND_0022870,100,84.86,AI Specialist with 6.7 yrs; response rate 0.44; interview completion 0.93

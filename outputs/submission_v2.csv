@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0062247,1,92.75,"Strong fit due to retrieval experience, ranking-system exposure, vector-search infrastructure, preferred experience range."
+CAND_0058688,2,92.59,"Strong fit due to recommendation-system experience, ranking-system exposure, embeddings expertise, A/B testing experience."
+CAND_0068932,3,92.56,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0081846,4,92.11,"Strong fit due to retrieval experience, ranking-system exposure, embeddings expertise, vector-search infrastructure."
+CAND_0017093,5,91.47,Strong fit due to preferred experience range.
+CAND_0043860,6,91.06,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0059795,7,91.06,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0098846,8,90.87,"Strong fit due to ranking-system exposure, embeddings expertise, preferred experience range."
+CAND_0006567,9,90.59,"Strong fit due to ranking-system exposure, A/B testing experience, preferred experience range."
+CAND_0018499,10,90.22,"Strong fit due to retrieval experience, ranking-system exposure, embeddings expertise, vector-search infrastructure."
+CAND_0064888,11,89.94,Strong fit due to preferred experience range.
+CAND_0002025,12,89.91,"Strong fit due to recommendation-system experience, ranking-system exposure, embeddings expertise, A/B testing experience."
+CAND_0006418,13,89.58,"Strong fit due to ranking-system exposure, preferred experience range."
+CAND_0050454,14,89.2,"Strong fit due to retrieval experience, ranking-system exposure, vector-search infrastructure, preferred experience range."
+CAND_0025882,15,89.16,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0077337,16,89.11,"Strong fit due to recommendation-system experience, retrieval experience, ranking-system exposure, embeddings expertise."
+CAND_0066999,17,89.03,"Strong fit due to ranking-system exposure, preferred experience range."
+CAND_0039383,18,88.99,"Strong fit due to retrieval experience, ranking-system exposure, vector-search infrastructure, preferred experience range."
+CAND_0079387,19,88.98,"Strong fit due to recommendation-system experience, retrieval experience, ranking-system exposure, embeddings expertise."
+CAND_0067866,20,88.6,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0078492,21,88.6,"Strong fit due to ranking-system exposure, preferred experience range."
+CAND_0037566,22,88.55,"Strong fit due to embeddings expertise, preferred experience range."
+CAND_0015967,23,88.44,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0052195,24,88.35,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0045141,25,88.19,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0098454,26,88.19,Strong fit due to preferred experience range.
+CAND_0053591,27,88.06,"Strong fit due to ranking-system exposure, embeddings expertise, preferred experience range."
+CAND_0069905,28,87.99,"Strong fit due to retrieval experience, embeddings expertise, vector-search infrastructure, preferred experience range."
+CAND_0086022,29,87.92,"Strong fit due to retrieval experience, ranking-system exposure, embeddings expertise, A/B testing experience."
+CAND_0052431,30,87.91,Strong fit due to preferred experience range.
+CAND_0068811,31,87.91,"Strong fit due to recommendation-system experience, ranking-system exposure, embeddings expertise, A/B testing experience."
+CAND_0017960,32,87.86,"Strong fit due to ranking-system exposure, embeddings expertise, preferred experience range."
+CAND_0074342,33,87.86,Strong fit due to preferred experience range.
+CAND_0024620,34,87.81,"Strong fit due to ranking-system exposure, preferred experience range."
+CAND_0037980,35,87.81,"Strong fit due to ranking-system exposure, A/B testing experience, preferred experience range."
+CAND_0077296,36,87.7,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0007567,37,87.65,Strong fit due to preferred experience range.
+CAND_0046525,38,87.55,"Strong fit due to retrieval experience, ranking-system exposure, embeddings expertise, A/B testing experience."
+CAND_0052335,39,87.5,"Strong fit due to ranking-system exposure, embeddings expertise, preferred experience range."
+CAND_0097176,40,87.44,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0018722,41,87.41,"Strong fit due to retrieval experience, ranking-system exposure, vector-search infrastructure, preferred experience range."
+CAND_0041610,42,87.37,"Strong fit due to ranking-system exposure, embeddings expertise, preferred experience range."
+CAND_0043384,43,87.34,Strong fit due to preferred experience range.
+CAND_0048166,44,87.3,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0030468,45,87.23,"Strong fit due to ranking-system exposure, A/B testing experience, preferred experience range."
+CAND_0026716,46,87.2,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0071974,47,87.17,"Strong fit due to recommendation-system experience, retrieval experience, ranking-system exposure, embeddings expertise."
+CAND_0046313,48,87.16,Strong fit due to preferred experience range.
+CAND_0043304,49,87.0,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0098952,50,86.94,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0052328,51,86.85,"Strong fit due to embeddings expertise, preferred experience range."
+CAND_0053605,52,86.83,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0052682,53,86.82,"Strong fit due to recommendation-system experience, ranking-system exposure, embeddings expertise, A/B testing experience."
+CAND_0047542,54,86.76,Strong fit due to preferred experience range.
+CAND_0082086,55,86.76,Strong fit due to preferred experience range.
+CAND_0030946,56,86.75,Strong fit due to preferred experience range.
+CAND_0000273,57,86.68,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0072688,58,86.47,Strong fit due to preferred experience range.
+CAND_0017090,59,86.44,Strong fit due to preferred experience range.
+CAND_0014234,60,86.4,Strong fit due to preferred experience range.
+CAND_0018549,61,86.34,"Strong fit due to recommendation-system experience, ranking-system exposure, embeddings expertise, A/B testing experience."
+CAND_0033179,62,86.34,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0011687,63,86.33,"Strong fit due to recommendation-system experience, retrieval experience, ranking-system exposure, embeddings expertise."
+CAND_0081852,64,86.31,"Strong fit due to embeddings expertise, preferred experience range."
+CAND_0075574,65,86.25,"Strong fit due to ranking-system exposure, embeddings expertise, preferred experience range."
+CAND_0005509,66,86.18,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0012837,67,86.12,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0000031,68,86.11,"Strong fit due to ranking-system exposure, preferred experience range."
+CAND_0077956,69,86.08,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0093912,70,86.08,"Strong fit due to retrieval experience, ranking-system exposure, vector-search infrastructure, preferred experience range."
+CAND_0081053,71,86.06,"Strong fit due to recommendation-system experience, ranking-system exposure, embeddings expertise, A/B testing experience."
+CAND_0003791,72,86.03,Strong fit due to preferred experience range.
+CAND_0039983,73,85.75,Strong fit due to preferred experience range.
+CAND_0091745,74,85.75,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0018246,75,85.66,Relevant engineering background with 4.7 years of experience.
+CAND_0069638,76,85.64,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0070525,77,85.59,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0008239,78,85.52,Strong fit due to ranking-system exposure.
+CAND_0083852,79,85.52,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0003599,80,85.5,Strong fit due to preferred experience range.
+CAND_0009691,81,85.5,"Strong fit due to recommendation-system experience, ranking-system exposure, embeddings expertise, A/B testing experience."
+CAND_0073883,82,85.4,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0060054,83,85.34,"Strong fit due to recommendation-system experience, retrieval experience, ranking-system exposure, embeddings expertise."
+CAND_0001131,84,85.31,Strong fit due to preferred experience range.
+CAND_0091909,85,85.31,"Strong fit due to recommendation-system experience, ranking-system exposure, embeddings expertise, A/B testing experience."
+CAND_0064130,86,85.26,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0020877,87,85.25,"Strong fit due to retrieval experience, embeddings expertise, vector-search infrastructure, preferred experience range."
+CAND_0033649,88,85.25,Strong fit due to preferred experience range.
+CAND_0029135,89,85.24,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0067497,90,85.23,Strong fit due to preferred experience range.
+CAND_0021706,91,85.21,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0046064,92,85.2,"Strong fit due to recommendation-system experience, retrieval experience, ranking-system exposure, embeddings expertise."
+CAND_0054100,93,85.18,Strong fit due to preferred experience range.
+CAND_0022463,94,85.17,Strong fit due to preferred experience range.
+CAND_0065195,95,85.13,"Strong fit due to embeddings expertise, preferred experience range."
+CAND_0032216,96,85.08,Strong fit due to preferred experience range.
+CAND_0003841,97,85.06,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0048558,98,85.04,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
+CAND_0058575,99,85.03,"Strong fit due to retrieval experience, embeddings expertise, vector-search infrastructure, preferred experience range."
+CAND_0099751,100,84.95,"Strong fit due to recommendation-system experience, ranking-system exposure, preferred experience range."
