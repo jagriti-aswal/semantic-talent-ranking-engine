@@ -1,14 +1,30 @@
 from sentence_transformers import SentenceTransformer
 from sentence_transformers.util import cos_sim
 
-model = SentenceTransformer(
-    "all-MiniLM-L6-v2"
-)
+model = None
+
+
+def get_model():
+    global model
+
+    if model is None:
+        print("Loading SentenceTransformer model...")
+
+        model = SentenceTransformer(
+            "all-MiniLM-L6-v2"
+        )
+
+        print("Model loaded successfully!")
+
+    return model
+
 
 def get_semantic_score(
     candidate,
     jd_text
 ):
+
+    model = get_model()
 
     text = ""
 
@@ -18,7 +34,6 @@ def get_semantic_score(
     text += profile["summary"] + " "
 
     for job in candidate["career_history"]:
-
         text += (
             job["description"]
             + " "

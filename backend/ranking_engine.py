@@ -10,19 +10,19 @@ from final_scoring import calculate_final_score
 from reasoning import generate_reasoning
 from jd_parser_llm import extract_skills_llm
 from matching import extract_matched_skills
-
+BACKEND_DIR = Path(__file__).resolve().parent
 DEFAULT_FILE = ROOT / "data" / "candidates.jsonl"
-UPLOADED_FILE = ROOT / "data" / "current_dataset.jsonl"
+UPLOADED_FILE = BACKEND_DIR /"data"/"current_dataset.jsonl"
 
-DATA_FILE = (
-    UPLOADED_FILE
-    if UPLOADED_FILE.exists()
-    else DEFAULT_FILE
-)
+
 
 
 def run_ranking_pipeline(job_description):
-
+    data_file = (
+        UPLOADED_FILE
+        if UPLOADED_FILE.exists()
+        else DEFAULT_FILE
+    )
     jd_skills = extract_skills_llm(
         job_description
     )
@@ -34,7 +34,7 @@ def run_ranking_pipeline(job_description):
     print("Stage 1: Rule-Based Ranking Started")
 
     with open(
-        DATA_FILE,
+        data_file,
         "r",
         encoding="utf-8"
     ) as f:
