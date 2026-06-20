@@ -10,6 +10,18 @@ print("Stage 1: Rule-based Ranking (100k candidates)")
 rule_results = []
 
 with open(
+    "data/job_description.txt",
+    "r",
+    encoding="utf-8"
+) as f:
+
+    jd_text = f.read()
+    from jd_parser import extract_skills
+
+jd_skills = extract_skills(
+    jd_text
+)
+with open(
     "data/candidates.jsonl",
     "r",
     encoding="utf-8"
@@ -19,7 +31,7 @@ with open(
 
         candidate = json.loads(line)
 
-        rule_score = calculate_score(candidate)
+        rule_score = calculate_score(candidate,jd_skills)
 
         rule_results.append(
             (
@@ -46,7 +58,7 @@ final_results = []
 
 for rule_score, candidate in top_candidates:
 
-    final_score = calculate_final_score(candidate)
+    final_score = calculate_final_score(candidate,jd_text)
 
     final_results.append(
         (
@@ -71,7 +83,7 @@ for rank, (score, candidate) in enumerate(
     start=1
 ):
 
-    reasoning = generate_reasoning(candidate)
+    reasoning = generate_reasoning(candidate,jd_skills)
 
     rows.append(
         {

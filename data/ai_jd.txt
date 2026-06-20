@@ -2,10 +2,10 @@ Senior AI Engineer
 
 Requirements:
 Machine Learning
-LLM
 Retrieval Systems
-Vector Search
+Ranking Systems
 Embeddings
-Recommendation Systems
+Vector Search
 FAISS
-NLP
+LLM
+Recommendation Systems

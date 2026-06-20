@@ -1,4 +1,4 @@
-def calculate_score(candidate):
+def calculate_score(candidate,jd_skills):
 
     profile = candidate["profile"]
     signals = candidate["redrob_signals"]
@@ -26,56 +26,20 @@ def calculate_score(candidate):
 
     for job in candidate["career_history"]:
         career_text += " " + job["description"].lower()
-
-    keyword_weights = {
-        "retrieval": 30,
-        "ranking": 25,
-        "re-ranking": 25,
-        "recommendation": 25,
-        "recommender": 25,
-        "collaborative filtering": 20,
-        "matrix factorization": 20,
-
-        "embedding": 20,
-        "embeddings": 20,
-        "vector": 30,
-
-        "a/b testing": 15,
-        "experimentation": 15,
-        "evaluation": 15,
-
-        "production": 15,
-        "deployment": 15,
-        "inference": 15,
-
-        "llm": 10,
-        "nlp": 10,
-
-        "search": 5,
-        "ndcg": 25,
-        "mrr": 25,
-        "map": 20,
-        "recall@k": 20,
-
-        "learning-to-rank": 30,
-        "ltr": 20,
-
-        "hybrid retrieval": 30,
-
-        "faiss": 25,
-        "pinecone": 20,
-        "qdrant": 20,
-        "milvus": 20,
-
-        "bm25": 20,
-    }
-
     career_score = 0
 
-    for keyword, weight in keyword_weights.items():
-        if keyword in career_text:
-            career_score += weight
+    matched_skills = 0
 
+    for skill in jd_skills:
+
+        if skill in career_text:
+
+            matched_skills += 1
+            career_score += 5
+
+    career_score = min(career_score, 40)
+
+    score += career_score
     career_score = min(career_score, 40)
 
     score += career_score
