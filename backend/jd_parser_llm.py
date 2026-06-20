@@ -1,5 +1,14 @@
 import re
-import ollama
+import os
+
+from groq import Groq
+from dotenv import load_dotenv
+
+load_dotenv()
+
+client = Groq(
+    api_key=os.getenv("GROQ_API_KEY")
+)
 
 
 def extract_skills_llm(jd_text):
@@ -19,19 +28,19 @@ Job Description:
 {jd_text}
 """
 
-    response = ollama.chat(
-        model="llama3.2:3b",
+    response = client.chat.completions.create(
+        model="llama-3.1-8b-instant",
         messages=[
             {
                 "role": "user",
                 "content": prompt
             }
-        ]
+        ],
+        temperature=0
     )
 
-    text = response["message"]["content"]
+    text = response.choices[0].message.content
 
-    # Remove common LLM prefixes
     text = re.sub(
         r"(?i)here are.*?:",
         "",
