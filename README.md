@@ -1,3 +1,14 @@
+---
+title: Semantic Talent Ranking Engine
+emoji: 🚀
+colorFrom: blue
+colorTo: purple
+sdk: docker
+pinned: false
+---
+
+# Semantic Talent Ranking Engine
+
 # AI Candidate Discovery & Ranking System
 
 ## Overview
