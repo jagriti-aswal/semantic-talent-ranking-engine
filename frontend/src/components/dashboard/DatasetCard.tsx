@@ -27,7 +27,7 @@ export function DatasetCard({ dataset }: { dataset: DatasetInfo }) {
 
         const response =
           await fetch(
-            "http://127.0.0.1:8000/upload-dataset",
+            "https://jagriti-aswal-semantic-talent-ranking-engine.hf.space/upload-dataset",
             {
               method: "POST",
               body: formData,

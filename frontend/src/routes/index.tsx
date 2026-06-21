@@ -49,7 +49,7 @@ const handleRank = async () => {
 
   try {
     const response = await fetch(
-      "http://127.0.0.1:8000/rank",
+      "https://jagriti-aswal-semantic-talent-ranking-engine.hf.space/rank",
       {
         method: "POST",
         headers: {
